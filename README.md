@@ -2,7 +2,7 @@
 UI provide option to pause/resume servers in bulk
 SCOM Operations Tools
 
-Pause Monitoring:
+# Pause Monitoring:
 
 ![alt text](https://github.com/tduong10101/SCOM-Ops-Tools/blob/master/img/PauseTabCapt.png)
 
@@ -13,7 +13,7 @@ Please allow some time for the app to perform the task. Once task is completed a
 User can check error log if there is any issues by select the “View Log” button.
 
 
-Resume Monitoring:
+# Resume Monitoring:
 
 ![alt text](https://github.com/tduong10101/SCOM-Ops-Tools/blob/master/img/ResumeTabCapt.png)
  
@@ -22,7 +22,7 @@ User input server list and it will resume monitoring on those servers. Please us
 Once task is completed a windows will pop up to confirm task completion.
 User can check error log if there is any issues by select the “View Log” button. 
 
-Alert Check:
+# Alert Check:
 
 ![alt text](https://github.com/tduong10101/SCOM-Ops-Tools/blob/master/img/AlertCheckTabCapt-1.png)
  
