@@ -2,6 +2,14 @@
 UI provide option to pause/resume servers in bulk
 SCOM Operations Tools
 
+### Prerequisites:
+
+OpeartionsManager Module installed
+
+### Installation:
+
+Download whole respository and run the .exe file
+
 ### Pause Monitoring:
 
 ![alt text](https://github.com/tduong10101/SCOM-Ops-Tools/blob/master/img/PauseTabCapt.png)
