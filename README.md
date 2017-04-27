@@ -14,7 +14,7 @@ Download whole respository and run the .exe file
 
 ![alt text](https://github.com/tduong10101/SCOM-Ops-Tools/blob/master/img/PauseTabCapt.png)
 
-This tab is similar to what we have with SCOM Operations Console – Maintenance mode function. However it will allow user to pause monitoring on multiple servers at one run base on the .txt servers list path input (each server has to be on separate line – please see below file for a sample)
+This tab is similar to what we have with SCOM Operations Console – Maintenance mode function. However it will allow user to pause monitoring on multiple servers at one run base on the .txt servers list path input (each server has to be on separate line – please see server.txt for example)
   
 This form will detect any invalid inputs and prompt user to correct them.
 Please allow some time for the app to perform the task. Once task is completed a windows will pop up to confirm task completion.
