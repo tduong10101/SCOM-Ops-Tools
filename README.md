@@ -34,7 +34,7 @@ User can check error log if there is any issues by select the “View Log” but
 
 ![alt text](https://github.com/tduong10101/SCOM-Ops-Tools/blob/master/img/AlertCheckTabCapt-1.png)
  
-This tab will let user to check alert resolution status base on Alert ID.
+This tab will let user check alert resolution status base on Alert ID.
 Once input alert ID and hit Check button, output field will display the below information. Base on this user will be able to identify if alert has been cleared or not.
  
 ![alt text](https://github.com/tduong10101/SCOM-Ops-Tools/blob/master/img/AlertCheckTabCapt-2.png)
